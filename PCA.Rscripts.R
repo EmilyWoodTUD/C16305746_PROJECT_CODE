@@ -1,7 +1,8 @@
+'''
 #PLOTTING PCA on R studio
 #Feburary 2021
 #Emily Wood
-
+'''
 
 #packages for heatmap
 library(gplots) 
