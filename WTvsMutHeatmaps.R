@@ -2,7 +2,7 @@
 #PLOTTING Heatmaps on R studio for Wild types
 #Feburary 2021
 #Emily Wood
-'''''
+''''
 
 #packages for heatmap
 library(gplots) 
