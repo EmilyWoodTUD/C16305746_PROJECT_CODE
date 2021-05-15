@@ -1,5 +1,5 @@
 '''
-#Heatmaps - Ward clust, Euclidean distancing - Rocaglate treated groups 
+#Heatmaps - Ward clust, Euclidean distancing - Rocaglate treated groups with SVM annoatation bar
 #Compressed and stretched heatmaps 
 #April 20th 2021
 #Emily Wood
@@ -17,7 +17,7 @@ dat <- dat[,8:19]
 
 dat <- dat[, c(4,6,8,11,12)]
 
-#data for annotation and new column stating whether norm_vec was pos or neg
+#data for annotation and new column stating whether norm_vec was pos or neg - SVM annotation bar
 df1 <- read.csv('total_dataset_com.csv', row.names=1)
 df1$score <- ifelse(df1$norm_vec >=0, "Positive", "Negative")
 df1 <- df1[,c(1,20)]
