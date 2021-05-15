@@ -1,7 +1,8 @@
+'''
 #Heatmaps using ward clustering and correlation distancing
 #Emily Wood
 #22nd of April 2021
-
+'''
 
 library(ComplexHeatmap)
 library(gplots)
