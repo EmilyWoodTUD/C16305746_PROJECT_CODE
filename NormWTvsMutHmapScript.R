@@ -1,4 +1,10 @@
+'''
+#Author: Emily Wood
+#Date: 14/03/21
 #This is the heatmap for wildtupe 1h versus Mutant B6 with respect to controls - subset of genes.
+'''
+
+
 
 #packages for heatmap
 library(pheatmap)
