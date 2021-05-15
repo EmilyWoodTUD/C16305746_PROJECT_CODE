@@ -1,5 +1,5 @@
 '''
-#Heatmaps using ward clustering and correlation distancing
+#Heatmaps using ward clustering and correlation distancing with SVM annotation bar 
 #Emily Wood
 #22nd of April 2021
 '''
@@ -13,7 +13,7 @@ library(heatmaply)
 #load in the data and make annotation dat for the norm_vec value
 dat <- read.csv('total_dataset_com copy.csv', row.names=1)
 
-#data for annotation and new column stating whether norm_vec was pos or neg
+#data for annotation and new column stating whether norm_vec was pos or neg - SVM bar
 df1 <- read.csv('total_dataset_com.csv', row.names=1)
 df1$score <- ifelse(df1$norm_vec >=0, "Positive", "Negative")
 df1 <- df1[,c(1,20)]
