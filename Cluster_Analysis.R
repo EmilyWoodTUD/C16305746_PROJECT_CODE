@@ -1,6 +1,6 @@
 ''''
 ##phenotypic contribtiion of each clusters
-#Author:EMilt Wood
+#Author:Emily Wood
 #5th of May 2021
 ''''
 
