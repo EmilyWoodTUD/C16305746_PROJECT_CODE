@@ -6,7 +6,7 @@ This repository contains the code for final year project in award for Bsc degree
 
 
 Project Title: 
-Computational Analysis of Drug Combinations to Normalize Aberrant Response of Macrophages to Mycobacterium Tuberculosis.
+"Computational Analysis of Drug Combinations to Normalize Aberrant Response of Macrophages to Mycobacterium Tuberculosis"
 
 
 Code which was generated with R software, version 3.6.1 (https://www.r-project.org/) and RStudio, version 1.2.5019 (https://www.rstudio.com) is denoted to as .R scripts.
