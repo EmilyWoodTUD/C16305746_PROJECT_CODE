@@ -1,6 +1,6 @@
 #VIPER ANALYSIS 
 #17th April 2021
-#Emily Wood
+#Author: Emily Wood
 
 library("viper")
 library("mixtools")
