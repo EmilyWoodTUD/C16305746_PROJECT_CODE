@@ -1,12 +1,8 @@
 # C16305746_PROJECT
 Author: Emily Wood, C16305746. 
+Date: 19/05/21
 
-
-This repository contains the code for final year project in award for Bsc degree in Biomedical and Molecular Diagnostics submitted to School of Biological & Health Sciences, City Campus, Technological University Dublin.
-
-
-Project Title: 
-"Computational Analysis of Drug Combinations to Normalize Aberrant Response of Macrophages to Mycobacterium Tuberculosis"
+This repository contains the code for final year project by Emily Wood in award for Bsc degree in Biomedical and Molecular Diagnostics, Technological University Dublin, City Campus.
 
 
 R programming software and version 3.6.1 (https://www.r-project.org/) was used. Additonally RStudio program, version 1.2.5019 (https://www.rstudio.com) was utilised for generation of this code and is denoted to as .R scripts.
