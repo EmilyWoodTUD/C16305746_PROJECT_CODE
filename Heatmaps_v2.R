@@ -1,8 +1,8 @@
-'''
+
 #Author: Emily Wood
 #Date: 14/03/21
 #This is the heatmap for wildtupe 1h versus Mutant B6 with respect to controls - subset of genes.
-'''
+
 
 
 
@@ -44,11 +44,12 @@ pheatmap(data3, main = "Fold change B6(mutant) vs 1h(WT)", scale = "row", show_c
 
 
 
-''''
+#######################################################
+
 #PLOTTING Heatmaps on R studio for Wild types
-#Feburary 2021
-#Emily Wood
-''''
+#24th of Feburary 2021
+#Author: Emily Wood
+
 
 #packages for heatmap
 library(gplots) 
@@ -76,11 +77,12 @@ pheatmap(sc_L, main = "Gene expression profiles" , scale = "row")
 
 
 
-'''
+#######################################################
+
 #Heatmaps for FPKM samples 
-#March 2021
-#Emily Wood
-'''
+#10th of March 2021
+#Author Emily Wood
+
 
 
 #packages for heatmap
