@@ -6,8 +6,8 @@
 #This repository contains the code for final year project by Emily Wood in award for Bsc degree in Biomedical and Molecular Diagnostics, #Technological University Dublin, City Campus.
 
 
-#R programming language (v3.6.1) and RStudio desktop software (v1.2.5019) used. Code is denoted to as .R scripts.
-#Python programming language, (v3.9.2). Denoted as .ipynb scripts.
+#R_programming language (v3.6.1) and R_Studio desktop software (v1.2.5019) used. Code is denoted to as .R scripts.
+#Python_programming language, (v3.9.2). Denoted as .ipynb scripts.
 
 #Software links; https://www.r-project.org , https://www.rstudio.com, https://www.python.org
 
